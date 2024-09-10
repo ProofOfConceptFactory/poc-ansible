@@ -1,0 +1,6 @@
+---
+- hosts: localhost
+
+  tasks:
+    - name: Hello from Ansible
+      command: echo 'Hello from Ansible!👋'
